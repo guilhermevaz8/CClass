@@ -1,0 +1,8 @@
+1.4  	1) %d%d%d/n em vez de d%d%d
+	2)sem o ;
+	3) sem a 1ª virgula
+	4)falta o % antes do d,a & antes do a e o ;
+	5)falta o &
+	6)falta a % antes do d
+1.5 nenhum
+1.6
